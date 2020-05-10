@@ -3,6 +3,12 @@
     margin: 0;
 }
 
+.headerMessage {
+    margin-top: 10px;
+    font-family: Arial;
+    text-align: center;
+}
+
 .gameContainer {
     margin: 25px;
 }
